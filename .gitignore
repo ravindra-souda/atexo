@@ -3,4 +3,4 @@ vendor/
 var/cache/
 var/logs/
 var/sessions/
-
+.phpunit.result.cache
